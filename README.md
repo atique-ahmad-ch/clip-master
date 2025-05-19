@@ -4,6 +4,5 @@
 If you have Python 3 installed:
 
 ```bash
-cd /path/to/clip-master
+cd clip-master
 python3 -m http.server 8000
->>>>>>> d4126f1 (Initial commit for clip-master project)
